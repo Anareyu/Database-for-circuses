@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1055</width>
+    <height>606</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>40</y>
+      <width>571</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <property name="columnCount">
+     <number>3</number>
+    </property>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>175</number>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>Название</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Режиссёр</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Год основания</string>
+     </property>
+    </column>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>749</x>
+      <y>53</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Доп. информация:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_pic">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>290</y>
+      <width>371</width>
+      <height>231</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="le_size_of_troupe">
+    <property name="geometry">
+     <rect>
+      <x>821</x>
+      <y>183</y>
+      <width>148</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="le_availability_of_animals">
+    <property name="geometry">
+     <rect>
+      <x>821</x>
+      <y>216</y>
+      <width>148</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="le_city">
+    <property name="geometry">
+     <rect>
+      <x>821</x>
+      <y>117</y>
+      <width>148</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>117</y>
+      <width>49</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Город: </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>183</y>
+      <width>109</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Размер труппы:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="le_country">
+    <property name="geometry">
+     <rect>
+      <x>821</x>
+      <y>84</y>
+      <width>148</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>216</y>
+      <width>138</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Наличие животных:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="le_amount_of_seats">
+    <property name="geometry">
+     <rect>
+      <x>821</x>
+      <y>150</y>
+      <width>148</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>84</y>
+      <width>52</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Страна:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>150</y>
+      <width>164</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>Макс. количество мест: </string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1055</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>Файл</string>
+    </property>
+    <addaction name="action_save_file"/>
+    <addaction name="action_load_file"/>
+    <addaction name="separator"/>
+    <addaction name="action_save_bin_file"/>
+    <addaction name="action_load_bin_file"/>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>Редактировать</string>
+    </property>
+    <addaction name="action_add_element"/>
+    <addaction name="action_edit"/>
+    <addaction name="action_delete"/>
+    <addaction name="action_delete_all"/>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>Обработка</string>
+    </property>
+    <addaction name="action_search_for_fields"/>
+    <addaction name="action_sort_for_amount"/>
+    <addaction name="action_biggest_of_troupe"/>
+    <addaction name="action_city_max_amount"/>
+    <addaction name="action_youngest_circle_animals"/>
+    <addaction name="action_select_many_circles"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="action_add_element">
+   <property name="text">
+    <string>Добавить</string>
+   </property>
+  </action>
+  <action name="action_edit">
+   <property name="text">
+    <string>Изменить</string>
+   </property>
+  </action>
+  <action name="action_delete">
+   <property name="text">
+    <string>Удалить</string>
+   </property>
+  </action>
+  <action name="action_save_file">
+   <property name="text">
+    <string>Сохранить в...</string>
+   </property>
+  </action>
+  <action name="action_load_file">
+   <property name="text">
+    <string>Загрузить из...</string>
+   </property>
+  </action>
+  <action name="action_save_bin_file">
+   <property name="text">
+    <string>Сохранить как bin файл в...</string>
+   </property>
+  </action>
+  <action name="action_load_bin_file">
+   <property name="text">
+    <string>Загрузить bin файл из...</string>
+   </property>
+  </action>
+  <action name="action_search_for_fields">
+   <property name="text">
+    <string>Поиск по всем полям</string>
+   </property>
+  </action>
+  <action name="action_sort_for_amount">
+   <property name="text">
+    <string>Упорядочить по количеству мест </string>
+   </property>
+  </action>
+  <action name="action_biggest_of_troupe">
+   <property name="text">
+    <string>Найти самый большой (по труппе) театр без животных</string>
+   </property>
+  </action>
+  <action name="action_city_max_amount">
+   <property name="text">
+    <string>Найти город с самым большим количеством цирков</string>
+   </property>
+  </action>
+  <action name="action_youngest_circle_animals">
+   <property name="text">
+    <string>Самый молодой цирк с животными</string>
+   </property>
+  </action>
+  <action name="action_select_many_circles">
+   <property name="text">
+    <string>Выбрать все цирки цирки старше заданного с размером труппы более заданного</string>
+   </property>
+  </action>
+  <action name="action_delete_all">
+   <property name="text">
+    <string>Удалить всё</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,180 @@
+Цирк дю Солей (Cirque du Soleil)
+Ги Лалиберте
+1984
+Канада
+Монреаль
+2500
+1300
+0
+D:/Codes/qt/circles2/files/photos/Cirque_du_Soleil2.jpg
+Большой Московский цирк
+Эдгард Запашный
+1971
+Россия
+Москва
+3400
+200
+1
+D:/Codes/qt/circles2/files/photos/Moscow_Circus_at_Vernadskogo_asv2018-08.jpg
+Circo Krone (Мюнхенский цирк)
+Кристоф Лойбль
+1905
+Германия
+Мюнхен
+3000
+150
+1
+D:/Codes/qt/circles2/files/photos/Kronebau_night.jpg
+Ringling Bros. and Barnum & Bailey Circus
+Кеннет Фельд
+1919
+США
+Сарасота
+5000
+300
+0
+D:/Codes/qt/circles2/files/photos/Ringling_Bros._Logo.png
+Шапито Medrano (Cirque Medrano)
+Жером Медрано
+1897
+Франция
+Париж
+1500
+100
+1
+D:/Codes/qt/circles2/files/photos/Cirque_Medrano_(Paris).jpg
+Цирк Никулина на Цветном бульваре
+Максим Никулин
+1880
+Россия
+Москва
+2000
+150
+1
+Path
+Cirque Eloize
+Жанно Панчетти
+1993
+Канада
+Монреаль
+1500
+50
+0
+D:/Codes/qt/circles2/files/photos/Logo_CIRQUE-ELOIZE_noir.png
+Цирк Ранцау (Circus Renz)
+Эрнст Ранцау
+1842
+Германия
+Берлин
+2000
+100
+1
+D:/Codes/qt/circles2/files/photos/Circus_Renz_1898.jpg
+Cirque Arlette Gruss
+Арлетт Грюсс
+1985
+Франция
+Авиньон
+2500
+120
+1
+D:/Codes/qt/circles2/files/photos/1920px-CirqueArletteGrus2010_03_4.jpg
+Цирк Танцюань (China National Circus)
+Ли Хуэй
+1953
+Китай
+Пекин
+1800
+200
+1
+D:/Codes/qt/circles2/files/photos/800px-Chinees_staatscircus_in_Amsterdam,_Bestanddeelnr_934-0237.jpg
+Cirque Plume
+Бернар Кудре
+1984
+Франция
+Безансон
+1000
+30
+0
+D:/Codes/qt/circles2/files/photos/plume.jpg
+Цирк "Аквамарин" (Россия)
+Сергей Белов
+2006
+Россия
+Москва
+1500
+100
+1
+D:/Codes/qt/circles2/files/photos/aquamarine.jpg
+Circus Vargas
+Нельсон Куэвас
+1969
+США
+Лос-Анджелес
+2000
+80
+1
+D:/Codes/qt/circles2/files/photos/Circus_Vargas_Logo.jpg
+Cirque Bouglione
+Сирил Бульон
+1934
+Франция
+Париж
+1800
+90
+1
+D:/Codes/qt/circles2/files/photos/Paris_-_Cirque_d'hiver_01.jpg
+Цирк "Киев"
+Виктор Жиленко
+1960
+Украина
+Киев
+2100
+120
+1
+D:/Codes/qt/circles2/files/photos/kiev.jpg
+Circus Knie (Швейцарский национальный цирк)
+Франко Кни
+1919
+Швейцария
+Рапперсвиль
+2500
+150
+1
+D:/Codes/qt/circles2/files/photos/Circus-Knie-Logo.png
+Cirque Phenix
+Жильбер Эдельман
+1987
+Франция
+Париж
+6000
+200
+1
+D:/Codes/qt/circles2/files/photos/phenix.jpg
+Цирк "Олимп" (Ростов-на-Дону)
+Александр Марчевский
+1957
+Россия
+Ростов-на-Дону
+1600
+80
+1
+D:/Codes/qt/circles2/files/photos/olimp.jpg
+Circus Roncalli
+Бернхард Пауль
+1976
+Германия
+Кёльн
+2500
+100
+1
+D:/Codes/qt/circles2/files/photos/roncalli.jpg
+Екатеринбургский государственный цирк имени В.И. Филатова
+Максимилиано Труцци
+1883
+Россия
+Екатеринбург
+2500
+150
+1
+D:/Codes/qt/circles2/files/photos/Ekb_Circus.jpg
